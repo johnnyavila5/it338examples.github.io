@@ -1,0 +1,15 @@
+{
+  "background_color": "purple",
+  "description": "VanillaJS ToDoMVC as a PWA.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "./images/pirate_PNG90.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "name": "VanillaJS ToDoMVC PWA",
+  "short_name": "vjsToDoPWA",
+  "start_url": "./index.html"
+}
